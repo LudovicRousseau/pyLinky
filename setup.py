@@ -24,11 +24,6 @@ setup(
       package_data={'': ['LICENSE']},
       include_package_data=True,
       packages=find_packages(),
-      entry_points={
-          'console_scripts': [
-              'pylink = pylinky.__main__:main'
-          ]
-      },
       license='GNU GPL 3.0',
       install_requires=['python-dateutil','requests'],
       classifiers=[
