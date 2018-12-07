@@ -29,7 +29,7 @@ setup(
               'pylink = pylinky.__main__:main'
           ]
       },
-      license='Apache 2.0',
+      license='GNU GPL 3.0',
       install_requires=['python-dateutil','requests'],
       classifiers=[
           'Programming Language :: Python :: 3.5',
