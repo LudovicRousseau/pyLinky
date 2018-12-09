@@ -25,7 +25,7 @@ Usage
 -----
 Print your current data
 
-    python -m pylinky -u <USERNAME> -p <PASSWORD>
+    ./sample.py -u <USERNAME> -p <PASSWORD>
 
 Dev env
 -------
